@@ -21,7 +21,7 @@
     },
     "5": {
         "sentiment_label": "neutral",
-        "text_of_tweet": "The weather today is perfect for a walk in the park.",
+        "text_of_tweet": "The weather today is suitable for a walk in the park.",
         "tweet_url": "https://twitter.com/WeatherWatcher/status/456456456456456456"
     },
     "6": {
@@ -51,12 +51,12 @@
     },
     "11": {
         "sentiment_label": "neutral",
-        "text_of_tweet": "Reading about the latest tech innovations. Always fascinating.",
+        "text_of_tweet": "Reading about the latest tech innovations. Some interesting developments.",
         "tweet_url": "https://twitter.com/TechEnthusiast/status/234567890123456789"
     },
     "12": {
         "sentiment_label": "negative",
-        "text_of_tweet": "The traffic today was unbearable. Took me two hours to get home.",
+        "text_of_tweet": "The traffic today was unbearable. Took me whole two hours to get home.",
         "tweet_url": "https://twitter.com/StuckInTraffic/status/345678901234567890"
     },
     "13": {
@@ -111,7 +111,7 @@
     },
     "23": {
         "sentiment_label": "neutral",
-        "text_of_tweet": "Watching the sunset at the park. So peaceful.",
+        "text_of_tweet": "Watching the sunset at the park. Very calm atmosphere.",
         "tweet_url": "https://twitter.com/NatureLover/status/456789012345678901"
     },
     "24": {
