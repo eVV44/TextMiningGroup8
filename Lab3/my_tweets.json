@@ -7,82 +7,82 @@
     "2": {
         "sentiment_label": "neutral",
         "text_of_tweet": "Just finished a great book! Highly recommend it to anyone interested in history.",
-        "tweet_url": "https://twitter.com/BookLover123/status/123456789012345678"
+        "tweet_url": "manually created"
     },
     "3": {
         "sentiment_label": "negative",
         "text_of_tweet": "This is the worst service I've ever experienced. Never coming back!",
-        "tweet_url": "https://twitter.com/AngryCustomer/status/987654321098765432"
+        "tweet_url": "manually created"
     },
     "4": {
         "sentiment_label": "positive",
         "text_of_tweet": "So grateful for all the love and support from my friends and family. Couldn't have done it without you!",
-        "tweet_url": "https://twitter.com/HappyUser/status/123123123123123123"
+        "tweet_url": "manually created"
     },
     "5": {
         "sentiment_label": "neutral",
         "text_of_tweet": "The weather today is suitable for a walk in the park.",
-        "tweet_url": "https://twitter.com/WeatherWatcher/status/456456456456456456"
+        "tweet_url": "manually created"
     },
     "6": {
         "sentiment_label": "negative",
         "text_of_tweet": "I can't believe how rude the staff was at that restaurant. Totally ruined my evening.",
-        "tweet_url": "https://twitter.com/DisappointedDiner/status/789789789789789789"
+        "tweet_url": "manually created"
     },
     "7": {
         "sentiment_label": "positive",
         "text_of_tweet": "Just got promoted at work! Hard work really does pay off.",
-        "tweet_url": "https://twitter.com/CareerSuccess/status/321321321321321321"
+        "tweet_url": "manually created"
     },
     "8": {
         "sentiment_label": "neutral",
         "text_of_tweet": "Watching the new documentary on Netflix. It's quite informative.",
-        "tweet_url": "https://twitter.com/DocuFan/status/654654654654654654"
+        "tweet_url": "manually created"
     },
     "9": {
         "sentiment_label": "negative",
         "text_of_tweet": "This product broke after just one use. Complete waste of money.",
-        "tweet_url": "https://twitter.com/UnhappyBuyer/status/987987987987987987"
+        "tweet_url": "manually created"
     },
     "10": {
         "sentiment_label": "positive",
         "text_of_tweet": "Spent the day at the beach with my family. Perfect day!",
-        "tweet_url": "https://twitter.com/BeachLover/status/123456789012345678"
+        "tweet_url": "manually created"
     },
     "11": {
         "sentiment_label": "neutral",
         "text_of_tweet": "Reading about the latest tech innovations. Some interesting developments.",
-        "tweet_url": "https://twitter.com/TechEnthusiast/status/234567890123456789"
+        "tweet_url": "manually created"
     },
     "12": {
         "sentiment_label": "negative",
         "text_of_tweet": "The traffic today was unbearable. Took me whole two hours to get home.",
-        "tweet_url": "https://twitter.com/StuckInTraffic/status/345678901234567890"
+        "tweet_url": "manually created"
     },
     "13": {
         "sentiment_label": "positive",
         "text_of_tweet": "Just adopted a puppy! So excited to welcome this little guy into our home.",
-        "tweet_url": "https://twitter.com/DogLover/status/456789012345678901"
+        "tweet_url": "manually created"
     },
     "14": {
         "sentiment_label": "neutral",
         "text_of_tweet": "Attending a conference on climate change. Lots of interesting discussions.",
-        "tweet_url": "https://twitter.com/EcoWarrior/status/567890123456789012"
+        "tweet_url": "manually created"
     },
     "15": {
         "sentiment_label": "negative",
         "text_of_tweet": "The movie was a complete disappointment. Waste of time and money.",
-        "tweet_url": "https://twitter.com/MovieCritic/status/678901234567890123"
+        "tweet_url": "manually created"
     },
     "16": {
         "sentiment_label": "positive",
         "text_of_tweet": "Celebrating my birthday with friends and family. Best day ever!",
-        "tweet_url": "https://twitter.com/BirthdayGirl/status/789012345678901234"
+        "tweet_url": "manually created"
     },
     "17": {
         "sentiment_label": "neutral",
         "text_of_tweet": "Trying out a new recipe for dinner tonight. Hope it turns out well.",
-        "tweet_url": "https://twitter.com/HomeChef/status/890123456789012345"
+        "tweet_url": "manually created"
     },
     "18": {
         "sentiment_label": "negative",
@@ -92,161 +92,161 @@
     "19": {
         "sentiment_label": "positive",
         "text_of_tweet": "Just finished a 10k run! Feeling amazing and accomplished.",
-        "tweet_url": "https://twitter.com/FitnessFanatic/status/012345678901234567"
+        "tweet_url": "manually created"
     },
     "20": {
         "sentiment_label": "neutral",
         "text_of_tweet": "Listening to a podcast about space exploration. So much to learn!",
-        "tweet_url": "https://twitter.com/SpaceGeek/status/123456789012345678"
+        "tweet_url": "manually created"
     },
     "21": {
         "sentiment_label": "negative",
         "text_of_tweet": "The customer service was terrible. They didn't resolve my issue at all.",
-        "tweet_url": "https://twitter.com/UnhappyCustomer/status/234567890123456789"
+        "tweet_url": "manually created"
     },
     "22": {
         "sentiment_label": "positive",
         "text_of_tweet": "Just got engaged! Best day of my life!",
-        "tweet_url": "https://twitter.com/NewlyEngaged/status/345678901234567890"
+        "tweet_url": "manually created"
     },
     "23": {
         "sentiment_label": "neutral",
         "text_of_tweet": "Watching the sunset at the park. Very calm atmosphere.",
-        "tweet_url": "https://twitter.com/NatureLover/status/456789012345678901"
+        "tweet_url": "manually created"
     },
     "24": {
         "sentiment_label": "negative",
         "text_of_tweet": "The food at the restaurant was cold and tasteless. Never going back.",
-        "tweet_url": "https://twitter.com/DisappointedFoodie/status/567890123456789012"
+        "tweet_url": "manually created"
     },
     "25": {
         "sentiment_label": "positive",
         "text_of_tweet": "Just graduated from college! So proud of this achievement.",
-        "tweet_url": "https://twitter.com/CollegeGrad/status/678901234567890123"
+        "tweet_url": "manually created"
     },
     "26": {
         "sentiment_label": "neutral",
         "text_of_tweet": "Reading a new article about AI advancements. Interesting stuff.",
-        "tweet_url": "https://twitter.com/TechReader/status/789012345678901234"
+        "tweet_url": "manually created"
     },
     "27": {
         "sentiment_label": "negative",
         "text_of_tweet": "The concert was canceled last minute. So disappointed.",
-        "tweet_url": "https://twitter.com/DisappointedFan/status/890123456789012345"
+        "tweet_url": "manually created"
     },
     "28": {
         "sentiment_label": "positive",
         "text_of_tweet": "Just got a new job! Excited for this new chapter in my life.",
-        "tweet_url": "https://twitter.com/NewJobBliss/status/901234567890123456"
+        "tweet_url": "manually created"
     },
     "29": {
         "sentiment_label": "neutral",
         "text_of_tweet": "Watching a documentary about ancient civilizations. Very educational.",
-        "tweet_url": "https://twitter.com/HistoryBuff/status/012345678901234567"
+        "tweet_url": "hmanually created"
     },
     "30": {
         "sentiment_label": "negative",
         "text_of_tweet": "The hotel room was dirty and smelled bad. Worst stay ever.",
-        "tweet_url": "https://twitter.com/UnhappyGuest/status/123456789012345678"
+        "tweet_url": "manually created"
     },
     "31": {
         "sentiment_label": "positive",
         "text_of_tweet": "Just finished a marathon! So proud of myself.",
-        "tweet_url": "https://twitter.com/MarathonRunner/status/234567890123456789"
+        "tweet_url": "manually created"
     },
     "32": {
         "sentiment_label": "neutral",
         "text_of_tweet": "Listening to a new album. The music is quite relaxing.",
-        "tweet_url": "https://twitter.com/MusicLover/status/345678901234567890"
+        "tweet_url": "manually created"
     },
     "33": {
         "sentiment_label": "negative",
         "text_of_tweet": "The package arrived damaged. Very frustrating.",
-        "tweet_url": "https://twitter.com/AngryShopper/status/456789012345678901"
+        "tweet_url": "manually created"
     },
     "34": {
         "sentiment_label": "positive",
         "text_of_tweet": "Just got married! Best day of my life!",
-        "tweet_url": "https://twitter.com/Newlyweds/status/567890123456789012"
+        "tweet_url": "manually created"
     },
     "35": {
         "sentiment_label": "neutral",
         "text_of_tweet": "Watching a new TV series. The plot is intriguing.",
-        "tweet_url": "https://twitter.com/TVWatcher/status/678901234567890123"
+        "tweet_url": "manually created"
     },
     "36": {
         "sentiment_label": "negative",
         "text_of_tweet": "The service at the cafe was slow and the coffee was cold.",
-        "tweet_url": "https://twitter.com/DisappointedCoffeeLover/status/789012345678901234"
+        "tweet_url": "manually created"
     },
     "37": {
         "sentiment_label": "positive",
         "text_of_tweet": "Just got a new car! So excited to hit the road.",
-        "tweet_url": "https://twitter.com/CarEnthusiast/status/890123456789012345"
+        "tweet_url": "manually created"
     },
     "38": {
         "sentiment_label": "neutral",
         "text_of_tweet": "Reading a book about mindfulness. Very insightful.",
-        "tweet_url": "https://twitter.com/MindfulReader/status/901234567890123456"
+        "tweet_url": "manually created"
     },
     "39": {
         "sentiment_label": "negative",
         "text_of_tweet": "The flight was overbooked and I got bumped. Terrible experience.",
-        "tweet_url": "https://twitter.com/FrustratedPassenger/status/012345678901234567"
+        "tweet_url": "manually created"
     },
     "40": {
         "sentiment_label": "positive",
         "text_of_tweet": "Just got a promotion! Hard work pays off.",
-        "tweet_url": "https://twitter.com/PromotedProfessional/status/123456789012345678"
+        "tweet_url": "manually created"
     },
     "41": {
         "sentiment_label": "neutral",
         "text_of_tweet": "Watching a documentary about wildlife. Nature is amazing.",
-        "tweet_url": "https://twitter.com/NatureDocumentaryFan/status/234567890123456789"
+        "tweet_url": "manually created"
     },
     "42": {
         "sentiment_label": "negative",
         "text_of_tweet": "The product didn't work as advertised. Very disappointed.",
-        "tweet_url": "https://twitter.com/UnhappyConsumer/status/345678901234567890"
+        "tweet_url": "manually created"
     },
     "43": {
         "sentiment_label": "positive",
         "text_of_tweet": "Just got a new puppy! So excited to have a new furry friend.",
-        "tweet_url": "https://twitter.com/DogLover2/status/456789012345678901"
+        "tweet_url": "manually created"
     },
     "44": {
         "sentiment_label": "neutral",
         "text_of_tweet": "Listening to a podcast about productivity. Very motivating.",
-        "tweet_url": "https://twitter.com/ProductivityFan/status/567890123456789012"
+        "tweet_url": "manually created"
     },
     "45": {
         "sentiment_label": "negative",
         "text_of_tweet": "The restaurant was overpriced and the food was mediocre.",
-        "tweet_url": "https://twitter.com/DisappointedDiner2/status/678901234567890123"
+        "tweet_url": "manually created"
     },
     "46": {
         "sentiment_label": "positive",
         "text_of_tweet": "Just finished a great workout! Feeling energized.",
-        "tweet_url": "https://twitter.com/FitnessEnthusiast/status/789012345678901234"
+        "tweet_url": "manually created"
     },
     "47": {
         "sentiment_label": "neutral",
         "text_of_tweet": "Reading about the latest trends in fashion. Interesting insights.",
-        "tweet_url": "https://twitter.com/Fashionista/status/890123456789012345"
+        "tweet_url": "manually created"
     },
     "48": {
         "sentiment_label": "negative",
         "text_of_tweet": "The event was poorly organized. Very disappointing.",
-        "tweet_url": "https://twitter.com/DisappointedAttendee/status/901234567890123456"
+        "tweet_url": "manually created"
     },
     "49": {
         "sentiment_label": "positive",
         "text_of_tweet": "Just got a new house! So excited to move in.",
-        "tweet_url": "https://twitter.com/NewHomeOwner/status/012345678901234567"
+        "tweet_url": "manually created"
     },
     "50": {
         "sentiment_label": "neutral",
         "text_of_tweet": "Watching a documentary about the ocean. So much to learn.",
-        "tweet_url": "https://twitter.com/OceanLover/status/123456789012345678"
+        "tweet_url": "manually created"
     }
 }
