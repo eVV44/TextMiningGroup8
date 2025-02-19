@@ -5,7 +5,7 @@
         "tweet_url": "https://twitter.com/BarackObama/status/946775615893655552"
     },
     "2": {
-        "sentiment_label": "neutral",
+        "sentiment_label": "positive",
         "text_of_tweet": "Just finished a great book! Highly recommend it to anyone interested in history.",
         "tweet_url": "manually created"
     },
@@ -21,7 +21,7 @@
     },
     "5": {
         "sentiment_label": "neutral",
-        "text_of_tweet": "The weather today is suitable for a walk in the park.",
+        "text_of_tweet": "I'm going for a walk in the park later today.",
         "tweet_url": "manually created"
     },
     "6": {
@@ -36,7 +36,7 @@
     },
     "8": {
         "sentiment_label": "neutral",
-        "text_of_tweet": "Watching the new documentary on Netflix. It's quite informative.",
+        "text_of_tweet": "Watching the new documentary on Netflix tonight. I'll let you know my thoughts.",
         "tweet_url": "manually created"
     },
     "9": {
@@ -51,7 +51,7 @@
     },
     "11": {
         "sentiment_label": "neutral",
-        "text_of_tweet": "Reading about the latest tech innovations. Some interesting developments.",
+        "text_of_tweet": "Reading about the latest tech innovations. There have been a lot of new developments.",
         "tweet_url": "manually created"
     },
     "12": {
@@ -66,7 +66,7 @@
     },
     "14": {
         "sentiment_label": "neutral",
-        "text_of_tweet": "Attending a conference on climate change. Lots of interesting discussions.",
+        "text_of_tweet": "Attending a conference on climate change later this week. Various topics are going to be discussed.",
         "tweet_url": "manually created"
     },
     "15": {
@@ -81,7 +81,7 @@
     },
     "17": {
         "sentiment_label": "neutral",
-        "text_of_tweet": "Trying out a new recipe for dinner tonight. Hope it turns out well.",
+        "text_of_tweet": "Trying out a new recipe for dinner tonight. We'll see how it goes.",
         "tweet_url": "manually created"
     },
     "18": {
@@ -96,7 +96,7 @@
     },
     "20": {
         "sentiment_label": "neutral",
-        "text_of_tweet": "Listening to a podcast about space exploration. So much to learn!",
+        "text_of_tweet": "Listening to a podcast about space exploration. So much new information...",
         "tweet_url": "manually created"
     },
     "21": {
@@ -111,7 +111,7 @@
     },
     "23": {
         "sentiment_label": "neutral",
-        "text_of_tweet": "Watching the sunset at the park. Very calm atmosphere.",
+        "text_of_tweet": "Would like to watch the sunset at the park with me tonight?",
         "tweet_url": "manually created"
     },
     "24": {
@@ -121,12 +121,12 @@
     },
     "25": {
         "sentiment_label": "positive",
-        "text_of_tweet": "Just graduated from college! So proud of this achievement.",
+        "text_of_tweet": "Yesterday I graduated from college! So proud of this achievement.",
         "tweet_url": "manually created"
     },
     "26": {
         "sentiment_label": "neutral",
-        "text_of_tweet": "Reading a new article about AI advancements. Interesting stuff.",
+        "text_of_tweet": "Reading a new article about AI advancements. The content is very informative.",
         "tweet_url": "manually created"
     },
     "27": {
@@ -141,7 +141,7 @@
     },
     "29": {
         "sentiment_label": "neutral",
-        "text_of_tweet": "Watching a documentary about ancient civilizations. Very educational.",
+        "text_of_tweet": "Watching a movie about ancient civilizations. Very educational.",
         "tweet_url": "hmanually created"
     },
     "30": {
@@ -151,12 +151,12 @@
     },
     "31": {
         "sentiment_label": "positive",
-        "text_of_tweet": "Just finished a marathon! So proud of myself.",
+        "text_of_tweet": "Finished a marathon! So proud of myself.",
         "tweet_url": "manually created"
     },
     "32": {
         "sentiment_label": "neutral",
-        "text_of_tweet": "Listening to a new album. The music is quite relaxing.",
+        "text_of_tweet": "Ariana Grande is releasing a new album next month.",
         "tweet_url": "manually created"
     },
     "33": {
@@ -166,12 +166,12 @@
     },
     "34": {
         "sentiment_label": "positive",
-        "text_of_tweet": "Just got married! Best day of my life!",
+        "text_of_tweet": "Just got married! Best moment of my life!",
         "tweet_url": "manually created"
     },
     "35": {
         "sentiment_label": "neutral",
-        "text_of_tweet": "Watching a new TV series. The plot is intriguing.",
+        "text_of_tweet": "Netflix has just announced an new TV series that is set to release next year.",
         "tweet_url": "manually created"
     },
     "36": {
@@ -181,7 +181,7 @@
     },
     "37": {
         "sentiment_label": "positive",
-        "text_of_tweet": "Just got a new car! So excited to hit the road.",
+        "text_of_tweet": "Today I got a new car! So excited to hit the road.",
         "tweet_url": "manually created"
     },
     "38": {
@@ -196,12 +196,12 @@
     },
     "40": {
         "sentiment_label": "positive",
-        "text_of_tweet": "Just got a promotion! Hard work pays off.",
+        "text_of_tweet": "Excited to share that I've been promoted! Grateful for the opportunities and growth",
         "tweet_url": "manually created"
     },
     "41": {
         "sentiment_label": "neutral",
-        "text_of_tweet": "Watching a documentary about wildlife. Nature is amazing.",
+        "text_of_tweet": "Watching a documentary about wildlife. It covers various aspects of nature.",
         "tweet_url": "manually created"
     },
     "42": {
@@ -211,12 +211,12 @@
     },
     "43": {
         "sentiment_label": "positive",
-        "text_of_tweet": "Just got a new puppy! So excited to have a new furry friend.",
+        "text_of_tweet": "Just got a kitten! So excited to have a new furry friend.",
         "tweet_url": "manually created"
     },
     "44": {
         "sentiment_label": "neutral",
-        "text_of_tweet": "Listening to a podcast about productivity. Very motivating.",
+        "text_of_tweet": "Listening to a podcast about productivity. It provides many useful tips.",
         "tweet_url": "manually created"
     },
     "45": {
@@ -226,12 +226,12 @@
     },
     "46": {
         "sentiment_label": "positive",
-        "text_of_tweet": "Just finished a great workout! Feeling energized.",
+        "text_of_tweet": "Finished a great workout! Feeling energized.",
         "tweet_url": "manually created"
     },
     "47": {
         "sentiment_label": "neutral",
-        "text_of_tweet": "Reading about the latest trends in fashion. Interesting insights.",
+        "text_of_tweet": "Reading about the latest trends in fashion before going to the fashion show tonight.",
         "tweet_url": "manually created"
     },
     "48": {
@@ -246,7 +246,7 @@
     },
     "50": {
         "sentiment_label": "neutral",
-        "text_of_tweet": "Watching a documentary about the ocean. So much to learn.",
+        "text_of_tweet": "Scientists discovered a new type of organism in the depths of the ocean.",
         "tweet_url": "manually created"
     }
 }
