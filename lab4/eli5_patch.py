@@ -7,7 +7,7 @@ import os
 import re
 from pathlib import Path
 
-base_dir = Path.home() / "anaconda3/Lib/site-packages/eli5"
+base_dir = Path.home() / "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/eli5"
 
 
 files_to_update = [
